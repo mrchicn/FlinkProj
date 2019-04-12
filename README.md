@@ -2,7 +2,7 @@
 Flink学习 FilterFunction()函数Filter算子
 ## Java操作Filter
       public class DataCleanFilterJava {
-    public static void main(final String[] args) throws Exception {
+        public static void main(final String[] args) throws Exception {
         StreamExecutionEnvironment env = StreamExecutionEnvironment.getExecutionEnvironment();
 
         //设置Checkpointing时间为1分钟也就是说一分钟做一个Checkpointing
