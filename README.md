@@ -67,4 +67,10 @@ Flink学习 FilterFunction()函数Filter算子
           }
         }
 
-
+# 环境配置：
+      flink 1.7.1
+      scala 2.11
+      kafka2.11-2.10
+      jdk1.8
+      zookeeper 3.4.5
+      
